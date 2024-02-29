@@ -1,0 +1,6 @@
+body{
+    /* 80% da viewport width (janela de visão)*/
+    width: 80vw;
+    /*ele vai centralizar automaticamente (para ambos os lados)*/
+    margin: auto;
+}
